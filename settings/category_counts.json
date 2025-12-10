@@ -1,0 +1,22 @@
+{
+  "categoryCounts": {
+    "agents-apis-697": 250,
+    "ai-apis-1208": 250,
+    "automation-apis-4825": 250,
+    "developer-tools-apis-2652": 250,
+    "ecommerce-apis-2440": 250,
+    "integrations-apis-890": 250,
+    "jobs-apis-848": 250,
+    "lead-generation-apis-3452": 250,
+    "mcp-servers-apis-131": 49,
+    "news-apis-590": 250,
+    "open-source-apis-768": 250,
+    "other-apis-1297": 250,
+    "real-estate-apis-851": 250,
+    "seo-tools-apis-710": 250,
+    "social-media-apis-3268": 250,
+    "travel-apis-397": 250,
+    "videos-apis-979": 250
+  },
+  "totalAPIs": 4049
+}
