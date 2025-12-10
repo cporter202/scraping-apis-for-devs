@@ -4,13 +4,13 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765301877738-Generated%20Image%20December%2009%2C%202025%20-%2012_37PM.jpeg?alt=media&token=e2e9e673-ff88-4683-a0b0-9eb3aeeb9559" alt="API Mega List" style="max-width: 100%; height: auto;">
 
-**The most comprehensive collection of scraping APIs on GitHub** - 4,049 ready-to-use scraping APIs for extracting data from websites, social media, e-commerce platforms, and more.
+**The most comprehensive collection of scraping APIs on GitHub** - 2,622 ready-to-use scraping APIs for extracting data from websites, social media, e-commerce platforms, and more.
 
 ---
 
 ### 📊 Repository Stats
 
-<img src="https://img.shields.io/badge/APIs-4,049-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-2,622-blue?style=for-the-badge&logo=api" alt="Total APIs">
 <img src="https://img.shields.io/badge/Categories-17-green?style=for-the-badge&logo=tag" alt="Categories">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=check-circle" alt="Status">
 <img src="https://img.shields.io/badge/Updated-Daily-brightgreen?style=for-the-badge&logo=clock" alt="Updated">
@@ -45,7 +45,7 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total APIs** | **4,049** |
+| **Total APIs** | **2,622** |
 | **Categories** | **17** |
 | **Last Updated** | 2025-12-09 |
 
@@ -55,7 +55,7 @@
 
 ## 🤔 What Can You Build?
 
-This collection contains **4,049 ready-to-use scraping APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
+This collection contains **2,622 ready-to-use scraping APIs** that you can integrate directly into your applications. Whether you're building web scrapers, automating workflows, processing data, or creating AI-powered tools, these APIs provide the building blocks you need.
 
 **The possibilities are endless:**
 
@@ -76,22 +76,24 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 ## 📚 Table of Contents
 
 - [Agents](./agents-apis-250/) - 250 APIs
-- [AI](./ai-apis-250/) - 250 APIs
-- [Automation](./automation-apis-250/) - 250 APIs
-- [Developer Tools](./developer-tools-apis-250/) - 250 APIs
-- [Ecommerce](./ecommerce-apis-250/) - 250 APIs
-- [Integrations](./integrations-apis-250/) - 250 APIs
-- [Jobs](./jobs-apis-250/) - 250 APIs
-- [Lead Generation](./lead-generation-apis-250/) - 250 APIs
-- [MCP Servers](./mcp-servers-apis-49/) - 49 APIs
-- [News](./news-apis-250/) - 250 APIs
-- [Open Source](./open-source-apis-250/) - 250 APIs
-- [Other](./other-apis-250/) - 250 APIs
-- [Real Estate](./real-estate-apis-250/) - 250 APIs
-- [SEO Tools](./seo-tools-apis-250/) - 250 APIs
-- [Social Media](./social-media-apis-250/) - 250 APIs
-- [Travel](./travel-apis-250/) - 250 APIs
-- [Videos](./videos-apis-250/) - 250 APIs
+- [AI](./ai-apis-173/) - 173 APIs
+- [Automation](./automation-apis-218/) - 218 APIs
+- [Developer Tools](./developer-tools-apis-172/) - 172 APIs
+- [Ecommerce](./ecommerce-apis-147/) - 147 APIs
+- [Integrations](./integrations-apis-191/) - 191 APIs
+- [Jobs](./jobs-apis-167/) - 167 APIs
+- [Lead Generation](./lead-generation-apis-80/) - 80 APIs
+- [MCP Servers](./mcp-servers-apis-28/) - 28 APIs
+- [News](./news-apis-198/) - 198 APIs
+- [Open Source](./open-source-apis-216/) - 216 APIs
+- [Other](./other-apis-133/) - 133 APIs
+- [Real Estate](./real-estate-apis-130/) - 130 APIs
+- [SEO Tools](./seo-tools-apis-159/) - 159 APIs
+- [Social Media](./social-media-apis-73/) - 73 APIs
+- [Travel](./travel-apis-139/) - 139 APIs
+- [Videos](./videos-apis-148/) - 148 APIs
+
+---
 
 ---
 
@@ -366,7 +368,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./ai-apis-250/)
+**173 APIs in this category** | [View all →](./ai-apis-173/)
 
 | API Name | Description |
 |----------|-------------|
@@ -627,7 +629,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./automation-apis-250/)
+**218 APIs in this category** | [View all →](./automation-apis-218/)
 
 | API Name | Description |
 |----------|-------------|
@@ -890,7 +892,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./developer-tools-apis-250/)
+**172 APIs in this category** | [View all →](./developer-tools-apis-172/)
 
 | API Name | Description |
 |----------|-------------|
@@ -1151,7 +1153,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./ecommerce-apis-250/)
+**147 APIs in this category** | [View all →](./ecommerce-apis-147/)
 
 | API Name | Description |
 |----------|-------------|
@@ -1412,7 +1414,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./integrations-apis-250/)
+**191 APIs in this category** | [View all →](./integrations-apis-191/)
 
 | API Name | Description |
 |----------|-------------|
@@ -1673,7 +1675,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./jobs-apis-250/)
+**167 APIs in this category** | [View all →](./jobs-apis-167/)
 
 | API Name | Description |
 |----------|-------------|
@@ -1934,7 +1936,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./lead-generation-apis-250/)
+**80 APIs in this category** | [View all →](./lead-generation-apis-80/)
 
 | API Name | Description |
 |----------|-------------|
@@ -2195,7 +2197,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**49 APIs in this category** | [View all →](./mcp-servers-apis-49/)
+**28 APIs in this category** | [View all →](./mcp-servers-apis-28/)
 
 | API Name | Description |
 |----------|-------------|
@@ -2337,7 +2339,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./news-apis-250/)
+**198 APIs in this category** | [View all →](./news-apis-198/)
 
 | API Name | Description |
 |----------|-------------|
@@ -2598,7 +2600,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./open-source-apis-250/)
+**216 APIs in this category** | [View all →](./open-source-apis-216/)
 
 | API Name | Description |
 |----------|-------------|
@@ -2859,7 +2861,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./other-apis-250/)
+**133 APIs in this category** | [View all →](./other-apis-133/)
 
 | API Name | Description |
 |----------|-------------|
@@ -3120,7 +3122,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./real-estate-apis-250/)
+**130 APIs in this category** | [View all →](./real-estate-apis-130/)
 
 | API Name | Description |
 |----------|-------------|
@@ -3381,7 +3383,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./seo-tools-apis-250/)
+**159 APIs in this category** | [View all →](./seo-tools-apis-159/)
 
 | API Name | Description |
 |----------|-------------|
@@ -3642,7 +3644,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./social-media-apis-250/)
+**73 APIs in this category** | [View all →](./social-media-apis-73/)
 
 | API Name | Description |
 |----------|-------------|
@@ -3903,7 +3905,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./travel-apis-250/)
+**139 APIs in this category** | [View all →](./travel-apis-139/)
 
 | API Name | Description |
 |----------|-------------|
@@ -4164,7 +4166,7 @@ This collection contains **4,049 ready-to-use scraping APIs** that you can integ
 
 <p align="right"><a href="#-table-of-contents">↑ Back to top</a></p>
 
-**250 APIs in this category** | [View all →](./videos-apis-250/)
+**148 APIs in this category** | [View all →](./videos-apis-148/)
 
 | API Name | Description |
 |----------|-------------|
