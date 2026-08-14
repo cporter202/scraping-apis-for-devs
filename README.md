@@ -3908,6 +3908,7 @@ This collection contains **2,622 ready-to-use scraping APIs** that you can integ
 | [Best Tiktok Transcripts Scraper](https://apify.com/scrape-creators/best-tiktok-transcripts-scraper?fpr=p2hrc6) | Extract spoken transcripts from TikTok videos (where available) with Best TikTok Transcripts Scraper. Just enter video URLs to get transcripts. Perfect for content analysis, AI pipelines, or trend... |
 | [Best Tiktok Video Scraper](https://apify.com/scrape-creators/best-tiktok-video-scraper?fpr=p2hrc6) | Extract data from chosen tiktoks. Just add a TikTok URL and get TikTok video and profile data: URLs, numbers of shares, followers, hashtags, hearts, video, and music metadata. Export scraped data, run... |
 | [Best Twitter Email Scraper](https://apify.com/scraper-mind/best-twitter-email-scraper?fpr=p2hrc6) | [𝗕𝟮𝗕 𝗘𝗠𝗔𝗜𝗟 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘] Unlock verified emails from Twitter (X) in seconds ⚡ Perfect for lead generation, outreach, and influencer targeting. The Twitter Email Scraper finds B2B/B2C... |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. |
 
 <a id="travel"></a>
 
