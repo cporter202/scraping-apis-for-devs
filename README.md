@@ -913,6 +913,7 @@ This collection contains **2,622 ready-to-use scraping APIs** that you can integ
 
 | API Name | Description |
 |----------|-------------|
+| [CrawlKit](https://crawlkit.sh) | Web scraping and data extraction API with dedicated endpoints for social media (Instagram, LinkedIn, YouTube) and app stores (Play Store, App Store). Returns LLM-ready markdown or structured JSON. Credit-based pricing. |
 | [⚡ Instagram Video Scraper - Lite 🔬](https://apify.com/scrapearchitect/instagram-video-scraper-lite?fpr=p2hrc6) | 📊 Scrape Instagram video metadata: titles 📝likes 💬❤️ formats 🧰 dates 📅! No downloads 🚫📥 Bulk URLs 🔄 residential proxies 🛡️ For marketers 📈 researchers 🔬 Fast ⚡15+ fields! ⚡Instagram Video... |
 | [⚡PDF to HTML Converter - Fast & Responsive](https://apify.com/microtrica/pdf-to-html?fpr=p2hrc6) | ⚡Effortlessly transform ➡️ your PDF documents 📑 into responsive, mobile-friendly 🌐HTML pages. Boost web performance with perfect conversions and seamless browser compatibility. |
 | [⚡Vimeo Profile Scraper 👤](https://apify.com/scrapearchitect/vimeo-profile-scraper?fpr=p2hrc6) | 🚀 Scrape Vimeo profiles 👤, bios 📝, HD images 🖼️ + raw JSON-LD 🧩! Bulk URLs 🔄, timestamps ⏰, Apify storage 🔒. For recruiters 👩💻, analysts 📊, archivists 📚. Fast ⚡, encrypted 🛡️! ⚡ Vimeo... |
