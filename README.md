@@ -4,6 +4,18 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765473796924-Generated%20Image%20December%2011%2C%202025%20-%2012_22PM.jpeg?alt=media&token=54567351-07bc-4172-9b10-00ab36ba8918" alt="Scraping APIs for Developers" style="max-width: 100%; height: auto;">
 
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
 **The most comprehensive collection of scraping APIs on GitHub** - 2,622 ready-to-use scraping APIs for extracting data from websites, social media, e-commerce platforms, and more.
 
 ---
