@@ -4454,6 +4454,27 @@ This collection contains **2,622 ready-to-use scraping APIs** that you can integ
 
 ---
 
+## 🌐 APIMesa — Web Scraping APIs
+
+The following APIs run on **[APIMesa](https://apimesa.com)** — a pay-per-call API marketplace: one API key, clear per-call credit pricing, and a live playground for every API.
+
+| API Name | Description |
+|----------|-------------|
+| [Robots.txt Check API](https://apimesa.com) | Check whether a public URL is allowed for APIHubBot under the site robots.txt rules before scraping. |
+| [Page Metadata Scraper API](https://apimesa.com) | Fetch a public page and extract title, description, canonical URL, favicon, Open Graph tags, Twitter/X tags, language, and robots meta. |
+| [Article Text Extract API](https://apimesa.com) | Extract clean article-like text, headings, word count, and reading time from public HTML pages without a browser renderer. |
+| [Link Extract API](https://apimesa.com) | Extract internal and external links from a public page with link text, rel attributes, and normalized absolute URLs. |
+| [Image Extract API](https://apimesa.com) | Extract image URLs, alt text, dimensions, loading hints, and missing-alt counts from public webpages. |
+| [Structured Data Extract API](https://apimesa.com) | Extract JSON-LD blocks and microdata item types from public pages for SEO, commerce, and content intelligence workflows. |
+| [RSS Feed Discover API](https://apimesa.com) | Discover RSS, Atom, JSON feed links, feed anchors, and common feed URL candidates from a public website. |
+| [Sitemap Parse API](https://apimesa.com) | Fetch and parse XML sitemaps or sitemap indexes, returning discovered page URLs and nested sitemap URLs. |
+| [SEO Snapshot Scraper API](https://apimesa.com) | Fetch a public page and return a deterministic SEO snapshot: metadata, headings, link counts, image alt coverage, structured data, robots, and score. |
+| [Universal Web Extractor](https://apimesa.com) | Turn any public webpage into structured metadata, readable content, headings, links, images, feeds, and JSON-LD in one run. |
+| [Website Crawler](https://apimesa.com) | Crawl a bounded set of same-site pages and return a clean content inventory with titles, descriptions, excerpts, and crawl relationships. |
+| [Sitemap Content Inventory](https://apimesa.com) | Read sitemap indexes and URL sets, sample public pages, and return a deduplicated inventory with content and metadata health. |
+| [Bulk Scrape API](https://apimesa.com) | Scrape up to 10 web pages in a single API call and get clean readable text back from each one — 100 credits per call, including up to 10 URLs. Calls with no successful pages are refunded. |
+| [AI Webpage Extractor](https://apimesa.com) | Extract structured information from a public webpage using your instructions. Returns null values for information the page does not contain. |
+
 ## 🚀 How to Use
 
 1. **Browse by Category** - Use the table of contents above to jump to any category
